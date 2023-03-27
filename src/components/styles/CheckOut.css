@@ -1,0 +1,41 @@
+.title-title {
+    color: #d66726;
+}
+
+
+.span-total{
+    background-color: #d66726;
+    color: #fff;
+    padding: 0.4rem 0.6rem;
+    border-radius: 50%;
+}
+
+.btn-pagar {
+    background-color: #d66726;
+    color: #fff;
+    border: none;
+    border-radius: .5rem;
+    height: 2.3rem;
+}
+
+.btn-pagar::placeholder{
+    background-color: #d66726c0;
+}
+
+.carrito-link {
+    text-decoration: none;
+    background-color: #d66726;
+    color: #fff;
+    font-weight: 600;
+    padding: .5rem 2rem;
+    border-radius: .5rem;
+}
+
+.carrito-link:hover {
+    color: #eeeded;
+    background-color: #dd763a;
+}
+
+.div__datos{
+    margin-top: 1.5rem;
+}

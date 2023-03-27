@@ -1,0 +1,33 @@
+.container-products {
+    width: 100%;
+    height: auto;
+    display: flex;
+    padding: 1rem 3rem;
+    flex-wrap: wrap;
+}
+
+
+@media screen and (max-width:1025px) {
+  
+    .container-products {
+        justify-content: space-between;
+    }
+}
+
+
+@media screen and (max-width: 961px) {
+  
+    .container-products {
+        justify-content: space-between;
+        padding: 1rem;
+    }
+}
+
+@media screen and (max-width: 641px) {
+  
+    .container-products {
+        justify-content: center;
+        flex-direction: column;
+        padding: 1rem .5rem;
+    }
+}

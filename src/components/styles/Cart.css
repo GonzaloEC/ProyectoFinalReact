@@ -1,0 +1,44 @@
+.carrito-title{
+    text-align: center;
+    margin-top: 18%;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.link-buy{
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+}
+
+.link-buy p{
+    text-align: center;
+    color: #fff;
+    width: 20%;
+    background-color: #d66726;
+    border-radius: .5rem;
+    padding: .5rem;
+    margin-top: 1rem;
+}
+
+.div-total{
+    text-align: center;
+    margin: 3rem 0;
+}
+
+.div-total p{
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.div-total button{
+    border: none;
+    background-color: #d66726;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #fff;
+    height: 2.5rem;
+    padding: 0 1rem;
+    border-radius: .5rem;
+    margin-top: 1rem;
+}
